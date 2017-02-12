@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Raphaël&#39;s Blog</title>
+    <link>http://raphael0202.github.io/about/index.xml</link>
+    <description>Recent content in about on Raphaël&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Feb 2017 14:24:20 +0000</lastBuildDate>
+    <atom:link href="http://raphael0202.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
