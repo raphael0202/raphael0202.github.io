@@ -6,7 +6,18 @@
     <description>Recent content on Raphaël&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 12 Feb 2017 14:59:53 +0000</lastBuildDate>
     <atom:link href="http://raphael0202.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>http://raphael0202.github.io/about/</link>
+      <pubDate>Sun, 12 Feb 2017 14:59:53 +0000</pubDate>
+      
+      <guid>http://raphael0202.github.io/about/</guid>
+      <description>&lt;p&gt;Short description.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
